@@ -1,5 +1,5 @@
 # Financial Aid Analysis Over 20 Years
-This project extracts and analyzes financial aid loan/grant increases over time. Below one will find all relevant information pertaining to the project:
+This project extracts and analyzes financial aid loan/grant increases over time. Below, one will find all relevant information pertaining to the project:
 
 ### Data Sources
 
